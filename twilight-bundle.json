@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tast",
+        "en": "tast"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "alaal.ai311@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/alaalai/tw-tast",
+    "components": []
+}
